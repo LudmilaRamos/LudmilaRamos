@@ -12,7 +12,6 @@
 - 🔧 Estudando para a certificação **AWS Certified Developer – Associate**
 - 📊 Aprofundando habilidades em **Python para análise de dados**
 - 🛠️ Trabalhando em novos projetos práticos de **dados** e **AWS**
-- 🗂️ Reorganizando meu **GitHub** com foco em qualidade e apresentação
 
 ---
 
