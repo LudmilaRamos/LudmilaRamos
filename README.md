@@ -33,7 +33,9 @@
 | [Dashboard_DIO](https://github.com/LudmilaRamos/dashboard_dio) | Visualização interativa criada com Excel + Copilot |
 | [Projeto OS Oficina](https://github.com/LudmilaRamos/os_oficina_dio) | Sistema de ordens de serviço em ambiente simulado |
 | **[AWS Lambda - Processamento de CSV](https://github.com/LudmilaRamos/aws-lambda-processamento)** | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados. |
-| **[Análise de Dados com Python](https://github.com/LudmilaRamos/analise-de-dados-python)** | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. |
+[**[Análise de Dados com Python](https://github.com/LudmilaRamos/analise-dados-python)]** | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. |
+
+
 
 
 | Em breve... | Projetos autorais com foco em **AWS + dados**! |
