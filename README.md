@@ -25,22 +25,22 @@
 
 ---
 
-## 🧩 Projetos em Destaque
+🧩 Projetos em Destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| [ecommerce-db.dio](https://github.com/LudmilaRamos/ecommerce-db.dio) | Banco de dados relacional com foco em pedidos, pagamentos e entregas |
-| [Dashboard_DIO](https://github.com/LudmilaRamos/dashboard_dio) | Visualização interativa criada com Excel + Copilot |
-| [Projeto OS Oficina](https://github.com/LudmilaRamos/os_oficina_dio) | Sistema de ordens de serviço em ambiente simulado |
+**Projetos Autorais:**
 
-"Projetos Autorais: AWS Lambda para Processamento de Arquivos CSV e Análise de Dados com Python"
+| Projeto                                    | Descrição                                                                                           | Link                                                                                      |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| AWS Lambda - Processamento de CSV          | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados.   | [Link para o Repositório](https://github.com/LudmilaRamos/aws-lambda-processamento)      |
+| Análise de Dados com Python                | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. | [Link para o Repositório](https://github.com/LudmilaRamos/analise-dados-python)          |
 
-| **[AWS Lambda - Processamento de CSV](https://github.com/LudmilaRamos/aws-lambda-processamento)** | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados. |
-[**[Análise de Dados com Python](https://github.com/LudmilaRamos/analise-dados-python)]** | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. |
+**Outros Projetos:**
 
-
-
-
+| Projeto                                    | Descrição                                                                                           | Link                                                                                      |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ecommerce-db.dio                           | Banco de dados relacional com foco em pedidos, pagamentos e entregas                                | [Link para o Repositório](https://github.com/LudmilaRamos/ecommerce-db.dio)              |
+| Dashboard_DIO                              | Visualização interativa criada com Excel + Copilot                                                  | [Link para o Repositório](https://github.com/LudmilaRamos/Dashboard_DIO)                 |
+| Projeto OS Oficina                         | Sistema de ordens de serviço em ambiente simulado                                                  | [Link para o Repositório](https://github.com/LudmilaRamos/Projeto-OS-Oficina)             |
 
 
 ---
