@@ -19,7 +19,7 @@
 
 - ✅ AWS Certified Cloud Practitioner (com credencial)
 - 🎓 AWS re/Start Graduate
-- 📊 Bootcamp Data Analytics (DIO)
+- 📊 Bootcamp Data Analytics (WomakersCode)
 - 🤖 IA Generativa, Ética e História (DIO)
 - 🧠 Python, SQL, Power BI, e muito mais
 
