@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou a Ludmila Almeida Ramos!
 
-🎓 Estudante de Ciência de Dados | ☁️ Apaixonada por Cloud Computing e tecnologia | 🔍 Exploradora de dados e soluções inteligentes  
+🎓 Estudante de Ciência de Dados | ☁️ Entusiasta de Cloud Computing e desenvomvimento | 🔍 Exploradora de dados e soluções inteligentes  
 🌱 Em transição de carreira e construindo projetos sólidos nas áreas de **Análise de Dados**, **Engenharia de Dados** e **Computação em Nuvem**.  
 📍 Mogi das Cruzes/SP | 📬 ludmilaramos0@gmail.com
 
