@@ -40,7 +40,7 @@
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | ecommerce-db.dio                           | Banco de dados relacional com foco em pedidos, pagamentos e entregas                                | [Link para o Repositório](https://github.com/LudmilaRamos/ecommerce-db.dio)              |
 | Dashboard_DIO                              | Visualização interativa criada com Excel + Copilot                                                  | [Link para o Repositório](https://github.com/LudmilaRamos/Dashboard_DIO)                 |
-| Projeto OS Oficina                         | Sistema de ordens de serviço em ambiente simulado                                                  | [Link para o Repositório](https://github.com/LudmilaRamos/Projeto-OS-Oficina)             |
+
 
 
 ---
