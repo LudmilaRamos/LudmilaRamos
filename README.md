@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou a Ludmila Almeida Ramos!
 
-🎓 Estudante de Ciência de Dados | ☁️ Entusiasta de Cloud Computing e desenvomvimento | 🔍 Exploradora de dados e soluções inteligentes  
+🎓 Formada em Ciência de Dados | ☁️ Entusiasta de Cloud Computing e desenvomvimento | 🔍 Exploradora de dados e soluções inteligentes  
 🌱 Em transição de carreira e construindo projetos sólidos nas áreas de **Análise de Dados**, **Engenharia de Dados** e **Computação em Nuvem**.  
 📍 Mogi das Cruzes/SP | 📬 ludmilaramos0@gmail.com
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Atualmente
 
-- 🔧 Estudando para a certificação **AWS Certified Developer – Associate**
+- 🔧 Estudando para a certificação **AWS Certified Solutions Architect – Associate**
 - 📊 Aprofundando habilidades em **Python para análise de dados**
 - 🛠️ Trabalhando em novos projetos práticos de **dados** e **AWS**
 
@@ -18,6 +18,7 @@
 ## 💼 Certificações
 
 - ✅ AWS Certified Cloud Practitioner (com credencial)
+- ✅ AWS Certified AI Practitioner (com credencial)
 - 🎓 AWS re/Start Graduate  (com credencial)
 - 📊 Bootcamp Data Analytics (WomakersCode)
 - 🤖 IA Generativa, Ética e História (DIO)
@@ -33,6 +34,8 @@
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | AWS Lambda - Processamento de CSV          | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados.   | [Link para o Repositório](https://github.com/LudmilaRamos/aws-lambda-processamento)      |
 | Análise de Dados com Python                | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. | [Link para o Repositório](https://github.com/LudmilaRamos/analise-dados-python)          |
+
+|NLP com IA Generativa (em andamento)|       | PPipeline conceitual de NLP com LLMs para classificação e sumarização de textos, aplicando técnicas de prompting e IA Generativa. | [Link para o Repositório]
 
 **Outros Projetos:**
 
