@@ -28,14 +28,12 @@
 
 🧩 Projetos em Destaque
 
-**Projetos Autorais:**
+| Projeto                              | Descrição                                                                                                                        | Link                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| AWS Lambda - Processamento de CSV    | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados.                                | [Link para o Repositório](https://github.com/LudmilaRamos/aws-lambda-processamento) |
+| Análise de Dados com Python          | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn.                      | [Link para o Repositório](https://github.com/LudmilaRamos/analise-dados-python)     |
+| NLP com IA Generativa (em andamento) | Pipeline conceitual de NLP com LLMs para classificação e sumarização de textos, aplicando técnicas de prompting e IA Generativa. | Em breve                                                                            |
 
-| Projeto                                    | Descrição                                                                                           | Link                                                                                      |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| AWS Lambda - Processamento de CSV          | Função Lambda que processa arquivos CSV carregados no S3, automatizando o processamento de dados.   | [Link para o Repositório](https://github.com/LudmilaRamos/aws-lambda-processamento)      |
-| Análise de Dados com Python                | Projeto de análise exploratória de dados, utilizando Python, Pandas e visualizações com Matplotlib/Seaborn. | [Link para o Repositório](https://github.com/LudmilaRamos/analise-dados-python)          |
-
-|NLP com IA Generativa (em andamento)|       | PPipeline conceitual de NLP com LLMs para classificação e sumarização de textos, aplicando técnicas de prompting e IA Generativa. | [Link para o Repositório]
 
 **Outros Projetos:**
 
