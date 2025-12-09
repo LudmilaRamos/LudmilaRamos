@@ -3,7 +3,7 @@
 
 🎓 Formada em Ciência de Dados | ☁️ Entusiasta de Cloud Computing e desenvomvimento | 🔍 Exploradora de dados e soluções inteligentes  
 🌱 Em transição de carreira e construindo projetos sólidos nas áreas de **Análise de Dados**, **Engenharia de Dados** e **Computação em Nuvem**.  
-📍 São Paulo/SP | 📬 ludmilaramos0@gmail.com
+📍 São Paulo/SP | 📬 ludmilaramos0@gmail.com | https://www.linkedin.com/in/ludmila-almeida-ramos
 
 ---
 
